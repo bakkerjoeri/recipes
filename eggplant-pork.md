@@ -28,6 +28,9 @@
 
 Serve with a side of white rice and topped with chopped scallions.
 
+---
+
 Sources:
-* Recipe adapted from [Chef Wang teaches you: "Braised Eggplant with Minced Pork" an healthy Sichuan cuisine 鱼香茄子](https://youtu.be/4Zl-SyceEzc)
-* Sauce from [Eggplant with Garlic Sauce (鱼香茄子)](https://www.madewithlau.com/recipes/eggplant-with-garlic-sauce)
+
+- Recipe adapted from [Chef Wang teaches you: "Braised Eggplant with Minced Pork" an healthy Sichuan cuisine 鱼香茄子](https://youtu.be/4Zl-SyceEzc)
+- Sauce from [Eggplant with Garlic Sauce (鱼香茄子)](https://www.madewithlau.com/recipes/eggplant-with-garlic-sauce)
