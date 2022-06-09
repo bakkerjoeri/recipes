@@ -6,12 +6,13 @@
 	* 50% all-purpose flour
 	* 50% wholegrain flour
 	* 100% water at room temperature
-* Dough (1000g to 100% per loaf)
-	* 80% all-purpose flour
-	* 10% manitoba flour
-	* 10% wholegrain flour
-	* 67% water at 32 degrees celcius
-	* 18% levain
+* Dough (500g to 100% per loaf)
+	* 50% all-purpose flour
+	* 30% manitoba flour
+	* 15% wholegrain wheat flour
+	* 5% wholegrain rye flour
+	* 68% water at 32 degrees celcius
+	* 20% levain
 	* 2% salt
 
 ## Instructions
