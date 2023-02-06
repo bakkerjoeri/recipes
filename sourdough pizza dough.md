@@ -7,7 +7,7 @@
 * 2% salt
 
 ## Instructions
-1. Mix the water and flour, autolyse for 45 minutes
+1. Mix the water and flour, autolyse for 15 minutes
 2. Mix in the sourdough and salt
 3. Do 4 stretch-and-folds over 45-minute intervals.
 3. Split and shape into balls
