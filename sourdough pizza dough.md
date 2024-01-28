@@ -1,7 +1,10 @@
 # Sourdough pizza dough
 
 ## Ingredients
-* 100% typo-00 flour (125 gram to a single pizza)
+Per pizza 100% is 125 grams of flour total.
+
+* 50% typo-00 flour
+* 50% semolina
 * 66% water
 * 20% sourdough
 * 2% salt

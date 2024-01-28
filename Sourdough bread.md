@@ -1,18 +1,13 @@
 # Sourdough bread
 
 ## Ingredients
-* Levain (45g to 100% per loaf)
-	* 50% starter
-	* 50% all-purpose flour
-	* 50% wholegrain flour
-	* 100% water at room temperature
 * Dough (500g to 100% per loaf)
 	* 50% all-purpose flour
-	* 30% manitoba flour
+	* 30% high protein flour
 	* 15% wholegrain wheat flour
 	* 5% wholegrain rye flour
 	* 68% water at 32 degrees celcius
-	* 20% levain
+	* 20% starter
 	* 2% salt
 
 ## Instructions
