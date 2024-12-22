@@ -17,4 +17,4 @@
 4. Preshape your loaves.
 5. Bulk ferment them in the fridge overnight.
 6. With a dutch oven inside preheat your oven at 240 degrees celcius.
-7. Score and bake your loaves for 25 minutes with a lid at 240 degrees and 20 degrees without lid at 220 degrees.
+7. Score and bake your loaves for 25 minutes with a lid at 240 degrees and minutes without lid at 220 degrees.

@@ -4,7 +4,7 @@
 - Chinese eggplant, diced
 - 4 cloves of garlic, chopped
 - 1 chili pepper, chopped
-- a knob of garlic, chopped
+- a knob of ginger, chopped
 - scallions, chopped
 - 150g pork belly, minced
 
@@ -22,7 +22,7 @@
 ## Instructions
 1. Fry or steam the eggplant. Set aside.
 2. In lard or vegetable oil fry the pork.
-3. Add the garlic, pepper, garlic and whipe parts of the scallions, stir until fragrent.
+3. Add the garlic, pepper, garlic and white parts of the scallions, stir until fragrent.
 4. Add the sauce and bring to a simmer.
 5. Add the eggplants, lower the fire and cover until the sauce is reduced.
 
