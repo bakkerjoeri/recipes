@@ -2,8 +2,9 @@
 
 ## Ingredients
 * Dough (500g to 100% per loaf)
-	* 50% all-purpose flour
-	* 30% high protein flour
+	* 40% high protein flour
+	* 20% all-purpose flour
+	* 20% semolina
 	* 15% wholegrain wheat flour
 	* 5% wholegrain rye flour
 	* 68% water at 32 degrees celcius
@@ -16,5 +17,5 @@
 3. Do 4 stretch-and-folds over 45-minute intervals.
 4. Preshape your loaves.
 5. Bulk ferment them in the fridge overnight.
-6. With a dutch oven inside preheat your oven at 240 degrees celcius.
-7. Score and bake your loaves for 25 minutes with a lid at 240 degrees and minutes without lid at 220 degrees.
+6. With a dutch oven inside preheat your oven at 220 degrees celcius.
+7. Score and bake your loaves for 25 minutes with a lid at 220 degrees and 20 minutes without lid at 200 degrees.
